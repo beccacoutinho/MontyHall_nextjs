@@ -10,8 +10,10 @@
 
 - Para começar, spo clonar o repositório e rodar `npm install && npm run dev`:
 
+    ```bash
     git clone https://github.com/beccacoutinho/MontyHall_nextjs.git
     npm install
     npm run dev
+    ```
 
 
